@@ -1,0 +1,3 @@
+export const GET_ALL_GENRES_REQUEST = 'genre/GET_ALL_REQUEST'
+export const GET_ALL_GENRES_SUCCESS = 'genre/GET_ALL_SUCCESS'
+export const GET_ALL_GENRES_FAILURE = 'genre/GET_ALL_FAILURE'

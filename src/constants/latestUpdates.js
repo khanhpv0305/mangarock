@@ -1,0 +1,3 @@
+export const GET_LATEST_UPDATES_REQUEST = 'lastUpdates/GET_REQUEST'
+export const GET_LATEST_UPDATES_SUCCESS = 'lastUpdates/GET_SUCCESS'
+export const GET_LATEST_UPDATES_FAILURE = 'lastUpdates/GET_FAILURE'
